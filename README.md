@@ -1,18 +1,14 @@
 # 📱 Installer Android 10 sur Lenovo YT3-X50L
 
-Site web du tutoriel : **[Ouvrir le guide](https://epokdotexe.github.io/Install-Android-10-on-Lenovo-YT3-X50L/)**
+Le tutoriel complet est regroupé sur **une seule page HTML** : [ouvrir index.html](index.html).
 
-- `index.html` : page principale du tutoriel.
-- `style.css` : mise en page responsive.
-- `images/` : schémas SVG intégrés dans la page.
-
-Les schémas sont affichés comme de simples images HTML, sans lien ni comportement d'ouverture au clic.
+Les deux illustrations sont conservées séparément dans le dossier `images/` et affichées dans la page comme images statiques non cliquables.
 
 ⚠️ **Compatibilité non confirmée :** aucune ROM Android 10 vérifiée pour le modèle exact YT3-X50L n'est actuellement fournie. Ne flashez pas de fichier destiné à un autre modèle.
 
-## Publication
+## Publication GitHub Pages
 
-Dans GitHub : **Settings → Pages → Deploy from a branch → main → /(root) → Save**. Après activation, le site sera disponible à l'adresse indiquée ci-dessus (la publication peut prendre quelques minutes).
+Dans **Settings → Pages → Deploy from a branch**, sélectionner la branche `main` et le dossier `/(root)`, puis enregistrer.
 
 Ressources :
 - [Support Lenovo Yoga Tab 3 10](https://pcsupport.lenovo.com/us/en/products/tablets/yoga-series/yoga-tab-3-10/downloads)
